@@ -1,0 +1,23 @@
+# Данные
+data/*.txt
+
+# Исполняемые
+*.exe
+*.out
+matrix
+matrix_seq
+
+# VS Code
+.vscode/
+
+# Visual Studio
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+
+# Python
+__pycache__/
+*.pyc
